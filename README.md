@@ -2,7 +2,7 @@
 
 [![license badge](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-## Internet retail, also known as e-commerce, plays a significant role within the electronics industry, as it empowers businesses and consumers alike to conveniently engage in online buying and selling of electronic products. In the latest available data from 2021, the industry in the United States alone was estimated to have generated the substantial amount of US$2.54 trillion, according to the United Nations Conference on Trade and Development. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
+## Internet retail, also known as e-commerce, plays a significant role within the electronics industry, as it empowers businesses and consumers alike to conveniently engage in the online buying and selling of electronic products. In the latest available data from 2021, the industry in the United States alone was estimated to have generated a substantial amount of US$2.54 trillion, according to the United Nations Conference on Trade and Development. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
 
 The challenge for this homework was to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
@@ -16,15 +16,16 @@ The challenge for this homework was to build the back end for an e-commerce site
 
 ## Installation
 
-In order to use this application, you will simply follow the link to visit our deployed page. Once there, you will navigate to the signup form to create a username, enter your email, and create a password. Once logged in, you can start posting blogs at the URL here:
-[MVC Blog]([https://shape-up-4300c0d6cf80.herokuapp.com/login](https://mvc-tech-blog-homework-177d7e3c174f.herokuapp.com/))
+In order to use this application, you will have to run an npm start from the cloned down repository to get the code running on your localhost server. Once that is running, you'll have to open Insomnia to run the routes to test all the code. You can find all the code from the URL here:
+[Ecommerce Back End](https://github.com/clarissafuller/ecommerce-back-end-homework)
 
 ## Usage/Tests
 
-Navigating the website is simple, in order to create a post, click the "create post" button.
-Fill out all the editable fields and post!
-The pages should look something like this:
+Checking all the routes to see all your products, categories, and tags is simple! Go through the routes in Insomnia core as shown in the picture below.
+The routes should look something like this:
+![dnew;NDW](https://github.com/clarissafuller/ecommerce-back-end-homework/assets/141360959/5b9e1df1-08c7-4d4e-9ba8-f887f73336b0)
 
+To see more, you can watch the use video [here](https://drive.google.com/file/d/1XkbrnjzbheV2xQsPcM8oQ2mekllRzKk4/view?usp=drive_link)
 
 ## Contributing
 
@@ -56,4 +57,4 @@ Reach out to us if you have any questions!
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
